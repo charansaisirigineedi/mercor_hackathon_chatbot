@@ -32,7 +32,7 @@ Run the following command:
 poetry run python textbase/textbase_cli.py test main.py
 ```
 
-Send a Hello message in the chat and the bot would instantly spin up!!
+> Send a Hello message in the chat and the bot would instantly spin up!!
 
 So, get ready for a delightful journey of laughter, knowledge, and wellness! Head over to http://localhost:4000 and experience the wonder of all three services in one chatty bundle! Happy exploring! 🤖💬📚💪🎉
 
