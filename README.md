@@ -12,11 +12,6 @@ Mercor Hackathon Chatbot is a text-based chatbot project with textbase frontend 
 
 - **Personal Health Assistant 💪**: Your very own health guru! The bot will inquire about your lifestyle choices, offer personalized health tips, and cheer you on your journey to a healthier lifestyle.
 
-## Demo
-
-```bash
-link
-
 ## Installation
 
 Clone the repository and install the dependencies using [Poetry](https://python-poetry.org/) (you might have to [install Poetry](https://python-poetry.org/docs/#installation) first).
